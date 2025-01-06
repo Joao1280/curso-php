@@ -38,7 +38,7 @@ body {
 }
 .principal{
     grid-area: principal;
-    height: cal(100vh - 180px);
+    height: calc(100vh - 180px);
     background-color: #f0f0f0;
     padding: 20px;
 }
