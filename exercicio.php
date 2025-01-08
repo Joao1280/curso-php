@@ -15,10 +15,10 @@
         <h1>Curso PHP</h1>
         <h2>Visualização do Exercícios</h2>
     </header>
-    <nav class="navegacao">
-        <a href=<?= "/{$_GET['dir']}/{$_GET['file']}.php"?> class="azul">Sem Formatação</a>
-        <a href="index.php" class="vermelho">Voltar</a>
-    </nav>
+        <nav class="navegacao">
+            <a href="<?="/meu_projeto/curso-php/{$_GET['dir']}/{$_GET['file']}.php"?>" class="azul">Sem Formatação</a>
+            <a href="index.php" class="vermelho">Voltar</a>
+        </nav>
     <main class="principal">
         <div class="conteudo">
            <?php 
