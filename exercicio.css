@@ -13,7 +13,7 @@ body.exercicio{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background-color: #555;
+    background-color: #111;
 }
 .navegacao > a {
     text-decoration: none;
