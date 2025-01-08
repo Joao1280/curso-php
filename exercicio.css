@@ -24,7 +24,7 @@ body.exercicio{
     padding: 5px 10px;
     margin-right: 10px;
 }
-.navegacao > a.verde { background-color: #2496f3;}
+.navegacao > a.azul { background-color: #2496f3;}
 .navegacao > a.vermelho { background-color: #f44336;}
 
 .conteudo {
